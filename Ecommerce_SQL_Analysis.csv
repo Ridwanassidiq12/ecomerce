@@ -1,0 +1,501 @@
+Transaction_ID,Customer_ID,Customer_Name,Product_ID,Product_Name,Category,Unit_Price,Quantity,Order_Date,Payment_Method,Shipping_Courier,Shipping_Time_Days,Review_Score,Review_Comment,Total_Amount
+TXN00001,CUST0092,Dina,PROD36,Adidas Ultraboost,Footwear,3500000,4,2023-08-20,Bank Transfer,JNE,2,5,Not satisfied,14000000
+TXN00002,CUST0024,Alice,PROD40,Nike Air Max,Apparel,2000000,4,2023-11-28,Bank Transfer,AnterAja,2,5,Could be better,8000000
+TXN00003,CUST0029,Bob,PROD6,Adidas Ultraboost,Accessories,3500000,4,2024-03-12,Bank Transfer,SiCepat,4,2,Excellent service,14000000
+TXN00004,CUST0044,Dina,PROD30,Uniqlo Dry-EX Shirt,Accessories,3500000,4,2023-09-02,E-Wallet,J&T,2,3,Item not as described,14000000
+TXN00005,CUST0085,Eve,PROD49,Xiaomi Backpack,Electronics,2000000,5,2024-04-19,Credit Card,SiCepat,5,3,Could be better,10000000
+TXN00006,CUST0081,Dina,PROD14,Uniqlo Dry-EX Shirt,Apparel,250000,4,2023-12-20,Credit Card,AnterAja,3,2,Item not as described,1000000
+TXN00007,CUST0047,Bob,PROD45,ASUS TUF A15,Apparel,250000,2,2023-01-21,Bank Transfer,SiCepat,1,5,Excellent service,500000
+TXN00008,CUST0019,Eve,PROD4,Lenovo LOQ,Accessories,500000,4,2024-04-16,E-Wallet,AnterAja,2,4,Great quality!,2000000
+TXN00009,CUST0085,Alice,PROD8,Xiaomi Backpack,Apparel,250000,3,2024-04-24,Bank Transfer,AnterAja,1,2,Great quality!,750000
+TXN00010,CUST0037,Alice,PROD32,Uniqlo Dry-EX Shirt,Footwear,250000,3,2023-12-08,Cash,JNE,4,2,Could be better,750000
+TXN00011,CUST0025,Bob,PROD8,ASUS TUF A15,Accessories,250000,2,2024-03-01,Cash,JNE,5,2,Great quality!,500000
+TXN00012,CUST0052,Eve,PROD26,Uniqlo Dry-EX Shirt,Accessories,1250000,3,2023-01-23,E-Wallet,AnterAja,4,4,Excellent service,3750000
+TXN00013,CUST0065,Charlie,PROD50,Lenovo LOQ,Accessories,1250000,3,2023-07-13,Credit Card,SiCepat,4,5,Item not as described,3750000
+TXN00014,CUST0054,Eve,PROD13,Nike Air Max,Accessories,1250000,3,2023-01-14,Bank Transfer,JNE,4,1,Great quality!,3750000
+TXN00015,CUST0075,Eve,PROD26,ASUS TUF A15,Apparel,1250000,5,2023-08-24,Bank Transfer,J&T,3,2,Fast delivery,6250000
+TXN00016,CUST0004,Eve,PROD7,Uniqlo Dry-EX Shirt,Accessories,3500000,2,2024-06-18,Bank Transfer,JNE,5,4,Could be better,7000000
+TXN00017,CUST0050,Frank,PROD40,Uniqlo Dry-EX Shirt,Footwear,250000,4,2023-02-23,Credit Card,J&T,4,3,Great quality!,1000000
+TXN00018,CUST0074,Dina,PROD50,Nike Air Max,Apparel,3500000,5,2023-03-16,Bank Transfer,AnterAja,5,5,Great quality!,17500000
+TXN00019,CUST0088,Bob,PROD27,Uniqlo Dry-EX Shirt,Footwear,1250000,5,2023-02-23,Cash,SiCepat,1,2,Not satisfied,6250000
+TXN00020,CUST0091,Frank,PROD11,Lenovo LOQ,Accessories,500000,5,2024-02-28,E-Wallet,J&T,2,1,Not satisfied,2500000
+TXN00021,CUST0059,Dina,PROD42,ASUS TUF A15,Footwear,500000,4,2023-09-13,E-Wallet,AnterAja,2,5,Fast delivery,2000000
+TXN00022,CUST0030,Charlie,PROD35,Nike Air Max,Electronics,2000000,2,2023-06-28,Cash,AnterAja,3,5,Great quality!,4000000
+TXN00023,CUST0059,Dina,PROD4,Adidas Ultraboost,Electronics,2000000,5,2024-06-26,Bank Transfer,SiCepat,3,4,Could be better,10000000
+TXN00024,CUST0068,Charlie,PROD50,Lenovo LOQ,Apparel,3500000,4,2024-02-09,E-Wallet,JNE,5,5,Fast delivery,14000000
+TXN00025,CUST0021,Dina,PROD9,Nike Air Max,Electronics,1250000,4,2023-12-30,Bank Transfer,J&T,5,2,Not satisfied,5000000
+TXN00026,CUST0056,Eve,PROD19,Lenovo LOQ,Footwear,3500000,4,2024-04-19,Bank Transfer,JNE,4,4,Not satisfied,14000000
+TXN00027,CUST0076,Frank,PROD9,Uniqlo Dry-EX Shirt,Footwear,1250000,5,2023-11-08,Credit Card,AnterAja,3,3,Great quality!,6250000
+TXN00028,CUST0051,Frank,PROD4,Adidas Ultraboost,Footwear,1250000,3,2024-03-14,Credit Card,SiCepat,5,1,Item not as described,3750000
+TXN00029,CUST0008,Charlie,PROD5,Lenovo LOQ,Accessories,500000,3,2024-04-15,Credit Card,J&T,3,1,Excellent service,1500000
+TXN00030,CUST0046,Eve,PROD34,Lenovo LOQ,Footwear,2000000,3,2023-07-02,Bank Transfer,AnterAja,4,3,Excellent service,6000000
+TXN00031,CUST0098,Bob,PROD44,Xiaomi Backpack,Apparel,1250000,3,2024-02-06,Credit Card,SiCepat,3,4,Item not as described,3750000
+TXN00032,CUST0084,Dina,PROD33,Adidas Ultraboost,Electronics,3500000,2,2023-09-26,E-Wallet,JNE,5,2,Great quality!,7000000
+TXN00033,CUST0056,Bob,PROD19,Xiaomi Backpack,Electronics,500000,2,2023-07-23,Cash,JNE,3,5,Not satisfied,1000000
+TXN00034,CUST0054,Charlie,PROD24,ASUS TUF A15,Accessories,1250000,5,2023-08-26,Cash,J&T,1,4,Not satisfied,6250000
+TXN00035,CUST0026,Eve,PROD17,Xiaomi Backpack,Electronics,3500000,2,2023-07-24,Cash,AnterAja,3,1,Not satisfied,7000000
+TXN00036,CUST0073,Eve,PROD44,Uniqlo Dry-EX Shirt,Footwear,3500000,3,2023-01-16,Cash,AnterAja,3,3,Not satisfied,10500000
+TXN00037,CUST0065,Eve,PROD33,Adidas Ultraboost,Electronics,3500000,1,2023-11-14,Bank Transfer,SiCepat,1,5,Not satisfied,3500000
+TXN00038,CUST0037,Eve,PROD29,Xiaomi Backpack,Apparel,250000,4,2023-08-16,E-Wallet,JNE,2,2,Excellent service,1000000
+TXN00039,CUST0034,Dina,PROD22,Adidas Ultraboost,Electronics,1250000,4,2023-02-14,Credit Card,JNE,1,3,Great quality!,5000000
+TXN00040,CUST0060,Eve,PROD49,ASUS TUF A15,Footwear,500000,5,2024-01-12,E-Wallet,SiCepat,3,2,Could be better,2500000
+TXN00041,CUST0003,Bob,PROD43,Lenovo LOQ,Electronics,500000,1,2023-09-06,E-Wallet,SiCepat,2,1,Could be better,500000
+TXN00042,CUST0055,Charlie,PROD6,Xiaomi Backpack,Footwear,1250000,1,2023-07-01,Bank Transfer,SiCepat,5,1,Could be better,1250000
+TXN00043,CUST0052,Charlie,PROD24,Uniqlo Dry-EX Shirt,Apparel,500000,3,2023-07-10,Bank Transfer,SiCepat,2,5,Not satisfied,1500000
+TXN00044,CUST0098,Eve,PROD33,ASUS TUF A15,Apparel,3500000,3,2023-05-29,Bank Transfer,J&T,1,3,Fast delivery,10500000
+TXN00045,CUST0086,Alice,PROD6,ASUS TUF A15,Apparel,3500000,4,2023-08-22,E-Wallet,J&T,4,2,Not satisfied,14000000
+TXN00046,CUST0066,Bob,PROD38,ASUS TUF A15,Footwear,3500000,3,2023-03-26,Cash,J&T,5,5,Excellent service,10500000
+TXN00047,CUST0045,Alice,PROD17,Lenovo LOQ,Accessories,500000,5,2023-03-15,Bank Transfer,SiCepat,2,5,Great quality!,2500000
+TXN00048,CUST0086,Eve,PROD6,Adidas Ultraboost,Footwear,3500000,3,2024-03-07,E-Wallet,SiCepat,5,1,Item not as described,10500000
+TXN00049,CUST0028,Dina,PROD10,Nike Air Max,Apparel,500000,4,2023-12-01,Cash,JNE,1,5,Not satisfied,2000000
+TXN00050,CUST0047,Alice,PROD41,Uniqlo Dry-EX Shirt,Footwear,500000,5,2024-05-01,Bank Transfer,JNE,2,5,Item not as described,2500000
+TXN00051,CUST0028,Frank,PROD50,Adidas Ultraboost,Footwear,2000000,4,2024-02-02,Cash,JNE,3,1,Fast delivery,8000000
+TXN00052,CUST0076,Alice,PROD30,Nike Air Max,Footwear,500000,5,2023-12-15,Cash,AnterAja,1,5,Not satisfied,2500000
+TXN00053,CUST0081,Charlie,PROD40,ASUS TUF A15,Footwear,2000000,2,2023-01-23,Credit Card,SiCepat,1,1,Fast delivery,4000000
+TXN00054,CUST0090,Bob,PROD24,Uniqlo Dry-EX Shirt,Footwear,1250000,1,2023-09-20,E-Wallet,SiCepat,3,2,Could be better,1250000
+TXN00055,CUST0007,Eve,PROD16,Lenovo LOQ,Accessories,500000,2,2023-08-02,Cash,AnterAja,5,1,Could be better,1000000
+TXN00056,CUST0100,Eve,PROD26,Xiaomi Backpack,Accessories,3500000,3,2023-11-23,Credit Card,SiCepat,1,5,Excellent service,10500000
+TXN00057,CUST0099,Dina,PROD5,Xiaomi Backpack,Electronics,1250000,5,2024-05-03,Cash,J&T,2,3,Could be better,6250000
+TXN00058,CUST0001,Bob,PROD5,ASUS TUF A15,Electronics,1250000,3,2023-06-11,Bank Transfer,AnterAja,3,1,Fast delivery,3750000
+TXN00059,CUST0005,Dina,PROD41,ASUS TUF A15,Accessories,1250000,1,2023-03-27,E-Wallet,J&T,3,1,Fast delivery,1250000
+TXN00060,CUST0060,Frank,PROD50,Lenovo LOQ,Electronics,3500000,5,2023-09-20,Bank Transfer,J&T,5,3,Fast delivery,17500000
+TXN00061,CUST0087,Eve,PROD27,Adidas Ultraboost,Footwear,3500000,5,2023-04-18,Bank Transfer,J&T,1,3,Great quality!,17500000
+TXN00062,CUST0012,Dina,PROD33,Xiaomi Backpack,Accessories,2000000,5,2024-05-20,E-Wallet,SiCepat,3,3,Great quality!,10000000
+TXN00063,CUST0005,Dina,PROD33,Xiaomi Backpack,Electronics,2000000,4,2023-07-11,Credit Card,SiCepat,4,1,Great quality!,8000000
+TXN00064,CUST0091,Charlie,PROD38,Uniqlo Dry-EX Shirt,Accessories,1250000,3,2024-02-13,Bank Transfer,AnterAja,2,2,Great quality!,3750000
+TXN00065,CUST0023,Eve,PROD44,Uniqlo Dry-EX Shirt,Apparel,500000,1,2023-04-05,E-Wallet,AnterAja,2,4,Excellent service,500000
+TXN00066,CUST0005,Eve,PROD22,Nike Air Max,Footwear,250000,2,2023-05-17,Credit Card,J&T,5,1,Fast delivery,500000
+TXN00067,CUST0072,Bob,PROD16,Xiaomi Backpack,Footwear,250000,3,2023-08-11,Cash,JNE,2,3,Item not as described,750000
+TXN00068,CUST0045,Bob,PROD36,Adidas Ultraboost,Apparel,250000,1,2023-08-24,Bank Transfer,JNE,3,5,Could be better,250000
+TXN00069,CUST0091,Frank,PROD46,Lenovo LOQ,Accessories,500000,1,2023-01-23,Credit Card,JNE,5,3,Fast delivery,500000
+TXN00070,CUST0023,Bob,PROD31,Nike Air Max,Accessories,1250000,2,2023-08-04,E-Wallet,JNE,5,5,Item not as described,2500000
+TXN00071,CUST0083,Eve,PROD2,Xiaomi Backpack,Accessories,500000,3,2023-01-10,E-Wallet,JNE,4,1,Could be better,1500000
+TXN00072,CUST0076,Charlie,PROD27,Nike Air Max,Footwear,3500000,3,2023-08-24,Credit Card,J&T,3,2,Excellent service,10500000
+TXN00073,CUST0069,Dina,PROD21,Nike Air Max,Electronics,250000,4,2023-02-20,Credit Card,J&T,4,2,Excellent service,1000000
+TXN00074,CUST0044,Dina,PROD33,Adidas Ultraboost,Accessories,500000,4,2024-05-09,Credit Card,AnterAja,1,1,Item not as described,2000000
+TXN00075,CUST0019,Charlie,PROD47,Uniqlo Dry-EX Shirt,Accessories,3500000,4,2023-02-17,Credit Card,SiCepat,5,1,Excellent service,14000000
+TXN00076,CUST0040,Bob,PROD22,Xiaomi Backpack,Apparel,1250000,1,2023-01-06,Bank Transfer,AnterAja,5,4,Item not as described,1250000
+TXN00077,CUST0075,Charlie,PROD21,Lenovo LOQ,Apparel,500000,5,2023-12-28,Cash,JNE,2,1,Fast delivery,2500000
+TXN00078,CUST0088,Charlie,PROD7,Xiaomi Backpack,Accessories,1250000,4,2023-10-03,Bank Transfer,JNE,5,3,Item not as described,5000000
+TXN00079,CUST0001,Frank,PROD18,Adidas Ultraboost,Accessories,1250000,4,2023-01-18,Bank Transfer,SiCepat,3,3,Great quality!,5000000
+TXN00080,CUST0038,Alice,PROD45,Uniqlo Dry-EX Shirt,Apparel,1250000,2,2023-09-19,E-Wallet,JNE,5,2,Excellent service,2500000
+TXN00081,CUST0049,Bob,PROD44,ASUS TUF A15,Electronics,500000,2,2023-06-21,Credit Card,J&T,4,3,Great quality!,1000000
+TXN00082,CUST0083,Frank,PROD27,ASUS TUF A15,Electronics,500000,5,2023-09-16,Credit Card,J&T,5,4,Item not as described,2500000
+TXN00083,CUST0009,Frank,PROD10,ASUS TUF A15,Footwear,2000000,2,2023-07-02,E-Wallet,JNE,3,2,Not satisfied,4000000
+TXN00084,CUST0001,Alice,PROD15,Lenovo LOQ,Apparel,3500000,4,2023-10-30,Cash,SiCepat,1,2,Great quality!,14000000
+TXN00085,CUST0030,Frank,PROD17,ASUS TUF A15,Footwear,1250000,3,2023-09-15,Bank Transfer,SiCepat,3,2,Fast delivery,3750000
+TXN00086,CUST0034,Bob,PROD20,Nike Air Max,Accessories,500000,1,2023-06-26,Credit Card,J&T,5,3,Fast delivery,500000
+TXN00087,CUST0056,Alice,PROD7,Adidas Ultraboost,Electronics,3500000,5,2024-04-26,Cash,J&T,2,2,Fast delivery,17500000
+TXN00088,CUST0007,Dina,PROD47,Lenovo LOQ,Electronics,2000000,2,2024-02-20,Bank Transfer,JNE,1,5,Not satisfied,4000000
+TXN00089,CUST0087,Eve,PROD46,ASUS TUF A15,Footwear,250000,3,2023-12-07,Credit Card,JNE,5,1,Not satisfied,750000
+TXN00090,CUST0042,Frank,PROD5,ASUS TUF A15,Accessories,2000000,4,2024-05-02,Bank Transfer,SiCepat,4,4,Great quality!,8000000
+TXN00091,CUST0026,Alice,PROD35,Uniqlo Dry-EX Shirt,Apparel,250000,5,2024-04-11,Bank Transfer,J&T,5,3,Great quality!,1250000
+TXN00092,CUST0053,Bob,PROD13,Uniqlo Dry-EX Shirt,Apparel,250000,2,2024-06-02,Cash,SiCepat,1,4,Fast delivery,500000
+TXN00093,CUST0086,Alice,PROD9,Adidas Ultraboost,Electronics,2000000,4,2023-11-08,E-Wallet,J&T,5,3,Item not as described,8000000
+TXN00094,CUST0037,Frank,PROD49,Nike Air Max,Electronics,250000,1,2024-01-06,E-Wallet,SiCepat,5,1,Great quality!,250000
+TXN00095,CUST0012,Frank,PROD9,Nike Air Max,Electronics,2000000,4,2023-04-13,E-Wallet,J&T,4,3,Not satisfied,8000000
+TXN00096,CUST0090,Charlie,PROD12,ASUS TUF A15,Footwear,2000000,3,2024-03-06,Cash,SiCepat,5,5,Great quality!,6000000
+TXN00097,CUST0045,Charlie,PROD16,Lenovo LOQ,Apparel,500000,5,2023-11-15,E-Wallet,J&T,5,2,Great quality!,2500000
+TXN00098,CUST0039,Dina,PROD39,Nike Air Max,Footwear,500000,4,2024-03-22,E-Wallet,J&T,2,2,Could be better,2000000
+TXN00099,CUST0005,Dina,PROD40,Uniqlo Dry-EX Shirt,Apparel,250000,3,2023-03-27,E-Wallet,JNE,2,2,Could be better,750000
+TXN00100,CUST0065,Bob,PROD18,Xiaomi Backpack,Footwear,500000,4,2024-04-30,Credit Card,J&T,5,3,Great quality!,2000000
+TXN00101,CUST0082,Bob,PROD14,Adidas Ultraboost,Footwear,3500000,2,2023-04-26,Credit Card,JNE,5,2,Excellent service,7000000
+TXN00102,CUST0018,Alice,PROD24,Adidas Ultraboost,Electronics,1250000,5,2023-07-27,Bank Transfer,SiCepat,5,5,Excellent service,6250000
+TXN00103,CUST0037,Charlie,PROD43,Uniqlo Dry-EX Shirt,Apparel,2000000,3,2023-05-22,Bank Transfer,SiCepat,2,4,Excellent service,6000000
+TXN00104,CUST0061,Dina,PROD34,Xiaomi Backpack,Apparel,250000,3,2023-02-05,Cash,AnterAja,1,4,Could be better,750000
+TXN00105,CUST0057,Charlie,PROD43,ASUS TUF A15,Apparel,250000,4,2023-11-24,E-Wallet,JNE,2,1,Could be better,1000000
+TXN00106,CUST0027,Frank,PROD43,ASUS TUF A15,Accessories,1250000,2,2023-09-06,Cash,J&T,4,5,Not satisfied,2500000
+TXN00107,CUST0024,Charlie,PROD32,ASUS TUF A15,Electronics,1250000,1,2023-07-06,E-Wallet,JNE,1,4,Great quality!,1250000
+TXN00108,CUST0019,Charlie,PROD12,ASUS TUF A15,Footwear,500000,1,2023-08-03,Cash,JNE,3,4,Excellent service,500000
+TXN00109,CUST0058,Alice,PROD36,Uniqlo Dry-EX Shirt,Apparel,1250000,2,2024-01-01,Cash,SiCepat,2,4,Not satisfied,2500000
+TXN00110,CUST0020,Eve,PROD4,Lenovo LOQ,Electronics,250000,4,2023-03-17,Credit Card,AnterAja,1,5,Great quality!,1000000
+TXN00111,CUST0002,Dina,PROD19,ASUS TUF A15,Accessories,250000,3,2024-03-01,Bank Transfer,SiCepat,4,4,Great quality!,750000
+TXN00112,CUST0091,Alice,PROD37,ASUS TUF A15,Apparel,500000,1,2023-06-16,Bank Transfer,JNE,3,1,Great quality!,500000
+TXN00113,CUST0032,Alice,PROD9,Lenovo LOQ,Footwear,500000,2,2023-08-20,Credit Card,AnterAja,4,3,Item not as described,1000000
+TXN00114,CUST0053,Charlie,PROD36,ASUS TUF A15,Accessories,500000,3,2023-11-13,Credit Card,J&T,2,3,Fast delivery,1500000
+TXN00115,CUST0099,Dina,PROD7,ASUS TUF A15,Apparel,500000,2,2023-08-13,E-Wallet,AnterAja,2,3,Excellent service,1000000
+TXN00116,CUST0058,Charlie,PROD1,Nike Air Max,Accessories,500000,5,2023-08-14,Bank Transfer,AnterAja,1,1,Great quality!,2500000
+TXN00117,CUST0088,Alice,PROD24,Nike Air Max,Apparel,250000,2,2023-01-05,Credit Card,SiCepat,3,5,Could be better,500000
+TXN00118,CUST0086,Dina,PROD25,Adidas Ultraboost,Footwear,2000000,2,2023-08-19,Cash,AnterAja,4,1,Fast delivery,4000000
+TXN00119,CUST0056,Charlie,PROD4,Xiaomi Backpack,Apparel,2000000,5,2023-05-05,Bank Transfer,JNE,4,5,Great quality!,10000000
+TXN00120,CUST0021,Eve,PROD49,Uniqlo Dry-EX Shirt,Footwear,3500000,3,2023-07-22,Cash,AnterAja,5,5,Excellent service,10500000
+TXN00121,CUST0086,Eve,PROD45,Uniqlo Dry-EX Shirt,Electronics,3500000,3,2024-05-01,Bank Transfer,AnterAja,2,5,Not satisfied,10500000
+TXN00122,CUST0045,Charlie,PROD43,Adidas Ultraboost,Footwear,3500000,3,2023-09-30,Credit Card,AnterAja,1,1,Could be better,10500000
+TXN00123,CUST0073,Dina,PROD46,Nike Air Max,Footwear,500000,5,2024-01-08,Credit Card,JNE,3,4,Item not as described,2500000
+TXN00124,CUST0094,Alice,PROD41,Adidas Ultraboost,Footwear,500000,5,2023-07-21,Credit Card,SiCepat,1,4,Fast delivery,2500000
+TXN00125,CUST0078,Frank,PROD27,Uniqlo Dry-EX Shirt,Accessories,3500000,3,2023-11-16,E-Wallet,SiCepat,3,4,Item not as described,10500000
+TXN00126,CUST0058,Bob,PROD34,ASUS TUF A15,Accessories,500000,4,2023-01-13,E-Wallet,AnterAja,1,3,Excellent service,2000000
+TXN00127,CUST0007,Charlie,PROD13,Nike Air Max,Accessories,1250000,2,2024-05-23,E-Wallet,JNE,2,4,Fast delivery,2500000
+TXN00128,CUST0019,Alice,PROD9,Nike Air Max,Apparel,1250000,1,2023-04-29,Cash,JNE,2,3,Fast delivery,1250000
+TXN00129,CUST0053,Dina,PROD11,ASUS TUF A15,Electronics,500000,1,2023-12-04,Cash,SiCepat,4,1,Could be better,500000
+TXN00130,CUST0052,Eve,PROD25,Adidas Ultraboost,Electronics,2000000,1,2023-05-07,Credit Card,J&T,1,5,Excellent service,2000000
+TXN00131,CUST0012,Bob,PROD7,ASUS TUF A15,Accessories,250000,5,2024-01-04,Bank Transfer,J&T,2,4,Fast delivery,1250000
+TXN00132,CUST0064,Charlie,PROD48,Uniqlo Dry-EX Shirt,Accessories,250000,2,2024-06-25,Bank Transfer,J&T,2,5,Could be better,500000
+TXN00133,CUST0052,Charlie,PROD44,Adidas Ultraboost,Accessories,1250000,5,2024-06-02,E-Wallet,J&T,3,3,Not satisfied,6250000
+TXN00134,CUST0077,Dina,PROD21,Nike Air Max,Electronics,500000,2,2024-03-03,E-Wallet,JNE,3,4,Not satisfied,1000000
+TXN00135,CUST0027,Charlie,PROD45,Adidas Ultraboost,Apparel,3500000,2,2024-05-08,E-Wallet,J&T,3,2,Excellent service,7000000
+TXN00136,CUST0017,Charlie,PROD10,Adidas Ultraboost,Accessories,250000,1,2023-04-19,E-Wallet,AnterAja,5,5,Could be better,250000
+TXN00137,CUST0032,Bob,PROD31,Nike Air Max,Electronics,2000000,2,2023-09-21,Cash,JNE,4,3,Not satisfied,4000000
+TXN00138,CUST0069,Frank,PROD37,Adidas Ultraboost,Apparel,1250000,3,2023-05-08,Cash,AnterAja,4,4,Item not as described,3750000
+TXN00139,CUST0015,Bob,PROD17,Uniqlo Dry-EX Shirt,Accessories,1250000,3,2024-04-19,Cash,SiCepat,4,5,Fast delivery,3750000
+TXN00140,CUST0009,Charlie,PROD13,Lenovo LOQ,Footwear,3500000,5,2023-02-08,Credit Card,SiCepat,5,1,Great quality!,17500000
+TXN00141,CUST0018,Alice,PROD16,ASUS TUF A15,Accessories,2000000,1,2023-10-13,Credit Card,AnterAja,4,3,Great quality!,2000000
+TXN00142,CUST0069,Bob,PROD42,Nike Air Max,Apparel,3500000,3,2023-03-05,Credit Card,SiCepat,3,1,Fast delivery,10500000
+TXN00143,CUST0016,Alice,PROD6,Adidas Ultraboost,Footwear,250000,4,2023-08-19,E-Wallet,AnterAja,1,2,Could be better,1000000
+TXN00144,CUST0076,Dina,PROD50,Lenovo LOQ,Apparel,250000,5,2023-10-11,E-Wallet,J&T,1,5,Fast delivery,1250000
+TXN00145,CUST0048,Alice,PROD21,Uniqlo Dry-EX Shirt,Accessories,500000,4,2024-04-07,Bank Transfer,AnterAja,5,4,Great quality!,2000000
+TXN00146,CUST0035,Frank,PROD26,Xiaomi Backpack,Accessories,1250000,2,2023-10-08,Bank Transfer,AnterAja,5,2,Not satisfied,2500000
+TXN00147,CUST0077,Eve,PROD15,Lenovo LOQ,Accessories,1250000,2,2023-11-09,E-Wallet,JNE,2,4,Could be better,2500000
+TXN00148,CUST0017,Bob,PROD21,Lenovo LOQ,Footwear,3500000,3,2024-05-22,Credit Card,JNE,2,1,Could be better,10500000
+TXN00149,CUST0023,Dina,PROD21,ASUS TUF A15,Accessories,2000000,5,2024-01-02,Bank Transfer,AnterAja,4,2,Not satisfied,10000000
+TXN00150,CUST0053,Eve,PROD6,Nike Air Max,Accessories,3500000,2,2023-10-02,Bank Transfer,JNE,5,3,Fast delivery,7000000
+TXN00151,CUST0091,Alice,PROD27,Nike Air Max,Electronics,2000000,1,2023-11-12,Credit Card,SiCepat,4,4,Could be better,2000000
+TXN00152,CUST0078,Frank,PROD34,Nike Air Max,Accessories,3500000,5,2024-02-19,Credit Card,J&T,1,4,Item not as described,17500000
+TXN00153,CUST0082,Charlie,PROD42,Nike Air Max,Footwear,500000,3,2023-08-07,Credit Card,SiCepat,2,1,Fast delivery,1500000
+TXN00154,CUST0052,Eve,PROD37,Adidas Ultraboost,Accessories,1250000,3,2023-03-09,Cash,SiCepat,2,5,Not satisfied,3750000
+TXN00155,CUST0094,Dina,PROD3,Uniqlo Dry-EX Shirt,Footwear,3500000,3,2023-12-14,E-Wallet,AnterAja,2,2,Not satisfied,10500000
+TXN00156,CUST0015,Charlie,PROD25,Uniqlo Dry-EX Shirt,Electronics,2000000,3,2023-04-02,Credit Card,AnterAja,2,2,Could be better,6000000
+TXN00157,CUST0084,Bob,PROD36,ASUS TUF A15,Accessories,500000,2,2023-11-17,E-Wallet,JNE,5,2,Could be better,1000000
+TXN00158,CUST0008,Bob,PROD5,Nike Air Max,Accessories,1250000,3,2023-10-07,E-Wallet,JNE,1,4,Not satisfied,3750000
+TXN00159,CUST0018,Charlie,PROD27,Nike Air Max,Apparel,1250000,2,2023-09-29,Bank Transfer,J&T,4,2,Could be better,2500000
+TXN00160,CUST0094,Frank,PROD10,Uniqlo Dry-EX Shirt,Accessories,500000,5,2023-07-17,Cash,J&T,2,5,Excellent service,2500000
+TXN00161,CUST0012,Dina,PROD39,Adidas Ultraboost,Apparel,3500000,5,2024-06-19,E-Wallet,J&T,2,2,Not satisfied,17500000
+TXN00162,CUST0002,Frank,PROD46,Uniqlo Dry-EX Shirt,Accessories,2000000,5,2024-02-22,Credit Card,JNE,3,5,Great quality!,10000000
+TXN00163,CUST0014,Eve,PROD3,ASUS TUF A15,Footwear,250000,1,2024-03-25,E-Wallet,SiCepat,2,5,Could be better,250000
+TXN00164,CUST0009,Bob,PROD22,Uniqlo Dry-EX Shirt,Accessories,3500000,3,2023-12-24,Cash,JNE,1,5,Great quality!,10500000
+TXN00165,CUST0011,Alice,PROD50,Uniqlo Dry-EX Shirt,Footwear,250000,4,2023-02-06,E-Wallet,J&T,2,5,Not satisfied,1000000
+TXN00166,CUST0033,Bob,PROD4,Nike Air Max,Electronics,250000,1,2023-11-03,E-Wallet,SiCepat,2,5,Item not as described,250000
+TXN00167,CUST0081,Frank,PROD43,Adidas Ultraboost,Footwear,1250000,4,2024-06-18,Cash,JNE,4,2,Fast delivery,5000000
+TXN00168,CUST0041,Charlie,PROD10,Adidas Ultraboost,Electronics,250000,1,2023-10-16,Bank Transfer,J&T,4,5,Not satisfied,250000
+TXN00169,CUST0090,Dina,PROD34,Uniqlo Dry-EX Shirt,Electronics,2000000,5,2023-06-20,Credit Card,AnterAja,1,4,Could be better,10000000
+TXN00170,CUST0053,Alice,PROD3,Adidas Ultraboost,Apparel,250000,3,2023-06-08,Bank Transfer,AnterAja,2,1,Item not as described,750000
+TXN00171,CUST0061,Bob,PROD16,ASUS TUF A15,Apparel,250000,5,2023-05-19,Bank Transfer,JNE,5,5,Excellent service,1250000
+TXN00172,CUST0086,Frank,PROD4,Adidas Ultraboost,Footwear,250000,1,2024-01-22,Cash,JNE,4,5,Excellent service,250000
+TXN00173,CUST0028,Charlie,PROD46,Adidas Ultraboost,Apparel,3500000,5,2024-02-24,E-Wallet,AnterAja,1,5,Could be better,17500000
+TXN00174,CUST0078,Dina,PROD16,Nike Air Max,Footwear,500000,2,2024-04-17,Bank Transfer,SiCepat,1,2,Fast delivery,1000000
+TXN00175,CUST0048,Charlie,PROD23,Lenovo LOQ,Accessories,250000,4,2023-02-03,Credit Card,J&T,1,2,Great quality!,1000000
+TXN00176,CUST0055,Frank,PROD1,Xiaomi Backpack,Footwear,250000,3,2024-01-05,Bank Transfer,J&T,2,5,Fast delivery,750000
+TXN00177,CUST0003,Charlie,PROD12,Xiaomi Backpack,Electronics,3500000,5,2023-04-20,Cash,J&T,5,5,Great quality!,17500000
+TXN00178,CUST0064,Dina,PROD30,Lenovo LOQ,Footwear,2000000,2,2023-12-21,E-Wallet,AnterAja,4,1,Great quality!,4000000
+TXN00179,CUST0061,Frank,PROD42,Xiaomi Backpack,Apparel,1250000,4,2023-05-20,Bank Transfer,JNE,2,2,Could be better,5000000
+TXN00180,CUST0045,Dina,PROD31,ASUS TUF A15,Apparel,250000,1,2023-03-21,Credit Card,J&T,4,4,Fast delivery,250000
+TXN00181,CUST0057,Alice,PROD17,Uniqlo Dry-EX Shirt,Electronics,2000000,3,2023-10-05,Bank Transfer,AnterAja,3,5,Item not as described,6000000
+TXN00182,CUST0037,Frank,PROD41,Nike Air Max,Electronics,1250000,4,2023-07-26,Bank Transfer,JNE,3,1,Not satisfied,5000000
+TXN00183,CUST0003,Eve,PROD34,Lenovo LOQ,Accessories,1250000,4,2024-05-07,Bank Transfer,AnterAja,4,4,Fast delivery,5000000
+TXN00184,CUST0066,Dina,PROD26,Uniqlo Dry-EX Shirt,Apparel,1250000,1,2023-11-30,Credit Card,AnterAja,3,4,Great quality!,1250000
+TXN00185,CUST0026,Alice,PROD10,Uniqlo Dry-EX Shirt,Accessories,2000000,4,2024-01-19,Credit Card,J&T,2,4,Fast delivery,8000000
+TXN00186,CUST0043,Charlie,PROD35,Lenovo LOQ,Electronics,500000,3,2023-01-23,Cash,SiCepat,3,2,Item not as described,1500000
+TXN00187,CUST0036,Frank,PROD47,Xiaomi Backpack,Footwear,1250000,2,2023-03-06,Credit Card,SiCepat,3,5,Not satisfied,2500000
+TXN00188,CUST0072,Dina,PROD10,Adidas Ultraboost,Footwear,1250000,2,2023-06-07,Credit Card,JNE,3,4,Could be better,2500000
+TXN00189,CUST0047,Dina,PROD2,Nike Air Max,Accessories,500000,5,2024-04-30,Cash,J&T,2,4,Fast delivery,2500000
+TXN00190,CUST0089,Alice,PROD17,ASUS TUF A15,Footwear,3500000,2,2023-04-26,Bank Transfer,AnterAja,5,4,Fast delivery,7000000
+TXN00191,CUST0030,Charlie,PROD50,Uniqlo Dry-EX Shirt,Footwear,500000,5,2023-11-18,E-Wallet,J&T,5,2,Not satisfied,2500000
+TXN00192,CUST0006,Dina,PROD5,Adidas Ultraboost,Footwear,3500000,4,2023-03-06,Cash,AnterAja,2,4,Excellent service,14000000
+TXN00193,CUST0037,Eve,PROD43,Adidas Ultraboost,Accessories,3500000,3,2023-10-06,Bank Transfer,AnterAja,2,5,Item not as described,10500000
+TXN00194,CUST0010,Charlie,PROD23,Adidas Ultraboost,Electronics,500000,1,2023-02-08,Bank Transfer,J&T,4,5,Great quality!,500000
+TXN00195,CUST0043,Eve,PROD27,Adidas Ultraboost,Footwear,500000,2,2024-02-01,Bank Transfer,SiCepat,5,5,Great quality!,1000000
+TXN00196,CUST0009,Alice,PROD23,Lenovo LOQ,Apparel,250000,2,2024-02-03,E-Wallet,J&T,5,5,Could be better,500000
+TXN00197,CUST0001,Dina,PROD20,ASUS TUF A15,Accessories,1250000,5,2023-08-26,Bank Transfer,AnterAja,5,5,Great quality!,6250000
+TXN00198,CUST0001,Bob,PROD21,Uniqlo Dry-EX Shirt,Accessories,250000,5,2023-03-18,Cash,SiCepat,4,3,Could be better,1250000
+TXN00199,CUST0031,Eve,PROD46,Lenovo LOQ,Accessories,1250000,3,2023-07-26,Credit Card,J&T,2,1,Fast delivery,3750000
+TXN00200,CUST0058,Bob,PROD23,Uniqlo Dry-EX Shirt,Accessories,500000,3,2024-05-11,E-Wallet,J&T,4,5,Fast delivery,1500000
+TXN00201,CUST0031,Eve,PROD26,ASUS TUF A15,Electronics,250000,4,2023-10-07,Credit Card,AnterAja,1,1,Great quality!,1000000
+TXN00202,CUST0044,Dina,PROD9,Lenovo LOQ,Accessories,500000,4,2023-08-02,Credit Card,JNE,3,1,Fast delivery,2000000
+TXN00203,CUST0006,Charlie,PROD49,Nike Air Max,Apparel,250000,3,2023-06-29,Cash,J&T,3,4,Fast delivery,750000
+TXN00204,CUST0072,Charlie,PROD43,Xiaomi Backpack,Apparel,250000,4,2024-06-28,E-Wallet,JNE,1,2,Item not as described,1000000
+TXN00205,CUST0052,Eve,PROD36,Lenovo LOQ,Electronics,1250000,3,2023-10-17,Bank Transfer,JNE,2,4,Fast delivery,3750000
+TXN00206,CUST0023,Dina,PROD7,Uniqlo Dry-EX Shirt,Accessories,500000,3,2023-06-06,Cash,AnterAja,5,3,Great quality!,1500000
+TXN00207,CUST0063,Frank,PROD49,ASUS TUF A15,Apparel,250000,3,2024-01-14,Bank Transfer,SiCepat,4,4,Item not as described,750000
+TXN00208,CUST0008,Dina,PROD45,ASUS TUF A15,Accessories,2000000,2,2023-09-12,E-Wallet,JNE,2,5,Item not as described,4000000
+TXN00209,CUST0056,Bob,PROD29,Adidas Ultraboost,Electronics,1250000,4,2023-02-04,Bank Transfer,JNE,2,3,Great quality!,5000000
+TXN00210,CUST0033,Dina,PROD19,Xiaomi Backpack,Accessories,250000,4,2024-06-03,E-Wallet,JNE,1,1,Item not as described,1000000
+TXN00211,CUST0051,Frank,PROD3,ASUS TUF A15,Electronics,1250000,3,2023-11-25,Credit Card,AnterAja,2,2,Excellent service,3750000
+TXN00212,CUST0068,Bob,PROD50,ASUS TUF A15,Footwear,3500000,1,2023-08-28,Cash,SiCepat,1,3,Could be better,3500000
+TXN00213,CUST0053,Bob,PROD11,Lenovo LOQ,Apparel,3500000,5,2024-02-24,E-Wallet,SiCepat,5,5,Excellent service,17500000
+TXN00214,CUST0048,Alice,PROD30,Uniqlo Dry-EX Shirt,Accessories,500000,3,2024-04-30,Credit Card,AnterAja,3,2,Not satisfied,1500000
+TXN00215,CUST0022,Eve,PROD20,Adidas Ultraboost,Footwear,1250000,1,2024-03-16,E-Wallet,SiCepat,1,4,Not satisfied,1250000
+TXN00216,CUST0025,Frank,PROD23,Lenovo LOQ,Electronics,1250000,3,2023-03-28,E-Wallet,J&T,5,4,Excellent service,3750000
+TXN00217,CUST0052,Alice,PROD17,Nike Air Max,Apparel,500000,4,2023-12-09,Cash,SiCepat,1,5,Fast delivery,2000000
+TXN00218,CUST0017,Frank,PROD23,Nike Air Max,Electronics,3500000,4,2023-12-21,Bank Transfer,SiCepat,1,4,Could be better,14000000
+TXN00219,CUST0098,Frank,PROD35,Xiaomi Backpack,Apparel,250000,4,2024-02-25,Bank Transfer,AnterAja,4,3,Fast delivery,1000000
+TXN00220,CUST0043,Eve,PROD22,Nike Air Max,Accessories,250000,4,2024-06-11,Bank Transfer,AnterAja,5,2,Item not as described,1000000
+TXN00221,CUST0037,Alice,PROD23,Adidas Ultraboost,Electronics,2000000,2,2023-11-02,E-Wallet,JNE,2,4,Item not as described,4000000
+TXN00222,CUST0095,Charlie,PROD2,Uniqlo Dry-EX Shirt,Apparel,1250000,1,2023-06-22,Credit Card,SiCepat,4,5,Not satisfied,1250000
+TXN00223,CUST0077,Frank,PROD2,Uniqlo Dry-EX Shirt,Apparel,500000,1,2023-08-29,Credit Card,JNE,1,1,Excellent service,500000
+TXN00224,CUST0100,Bob,PROD22,Nike Air Max,Accessories,2000000,4,2024-06-13,Credit Card,SiCepat,4,3,Not satisfied,8000000
+TXN00225,CUST0024,Alice,PROD24,Nike Air Max,Apparel,1250000,2,2023-11-12,E-Wallet,JNE,3,4,Fast delivery,2500000
+TXN00226,CUST0059,Alice,PROD23,Adidas Ultraboost,Footwear,250000,2,2024-01-07,Cash,SiCepat,1,4,Not satisfied,500000
+TXN00227,CUST0067,Alice,PROD32,Uniqlo Dry-EX Shirt,Apparel,3500000,5,2023-03-12,Cash,SiCepat,2,4,Could be better,17500000
+TXN00228,CUST0028,Charlie,PROD39,Nike Air Max,Footwear,1250000,2,2023-06-15,Cash,AnterAja,3,3,Not satisfied,2500000
+TXN00229,CUST0068,Alice,PROD46,Uniqlo Dry-EX Shirt,Accessories,500000,5,2023-11-30,Cash,J&T,1,2,Excellent service,2500000
+TXN00230,CUST0017,Alice,PROD20,Lenovo LOQ,Apparel,2000000,4,2023-11-25,Credit Card,J&T,2,5,Fast delivery,8000000
+TXN00231,CUST0002,Bob,PROD27,Lenovo LOQ,Apparel,3500000,1,2024-01-19,Cash,JNE,3,1,Could be better,3500000
+TXN00232,CUST0033,Alice,PROD47,Nike Air Max,Apparel,1250000,5,2024-03-17,E-Wallet,J&T,5,4,Item not as described,6250000
+TXN00233,CUST0017,Alice,PROD49,Lenovo LOQ,Footwear,250000,3,2023-05-31,Bank Transfer,AnterAja,5,1,Could be better,750000
+TXN00234,CUST0013,Frank,PROD46,Xiaomi Backpack,Footwear,2000000,5,2023-10-18,Cash,AnterAja,3,2,Fast delivery,10000000
+TXN00235,CUST0001,Eve,PROD20,ASUS TUF A15,Accessories,500000,5,2024-01-11,Credit Card,JNE,5,4,Could be better,2500000
+TXN00236,CUST0033,Charlie,PROD22,Lenovo LOQ,Electronics,250000,5,2023-07-18,Cash,AnterAja,5,3,Excellent service,1250000
+TXN00237,CUST0014,Dina,PROD14,Xiaomi Backpack,Apparel,500000,1,2024-06-20,Bank Transfer,J&T,5,4,Item not as described,500000
+TXN00238,CUST0025,Dina,PROD3,Lenovo LOQ,Apparel,3500000,5,2023-10-20,Bank Transfer,JNE,1,5,Excellent service,17500000
+TXN00239,CUST0059,Bob,PROD50,Uniqlo Dry-EX Shirt,Electronics,3500000,3,2024-05-30,Cash,AnterAja,2,2,Item not as described,10500000
+TXN00240,CUST0032,Eve,PROD3,Nike Air Max,Accessories,2000000,4,2023-10-08,Cash,J&T,1,2,Great quality!,8000000
+TXN00241,CUST0046,Frank,PROD35,ASUS TUF A15,Accessories,1250000,2,2023-12-07,Credit Card,J&T,1,1,Excellent service,2500000
+TXN00242,CUST0057,Bob,PROD11,Lenovo LOQ,Footwear,3500000,5,2023-06-08,Credit Card,J&T,1,3,Excellent service,17500000
+TXN00243,CUST0072,Frank,PROD20,Nike Air Max,Accessories,250000,4,2023-02-04,Cash,J&T,2,2,Excellent service,1000000
+TXN00244,CUST0065,Alice,PROD8,ASUS TUF A15,Footwear,2000000,5,2023-04-13,E-Wallet,SiCepat,3,1,Excellent service,10000000
+TXN00245,CUST0038,Alice,PROD45,Xiaomi Backpack,Electronics,250000,2,2024-02-12,Bank Transfer,J&T,2,4,Item not as described,500000
+TXN00246,CUST0077,Eve,PROD12,Xiaomi Backpack,Apparel,500000,5,2024-06-26,Bank Transfer,AnterAja,3,5,Not satisfied,2500000
+TXN00247,CUST0038,Frank,PROD45,Lenovo LOQ,Footwear,250000,4,2023-02-12,Cash,JNE,1,2,Could be better,1000000
+TXN00248,CUST0039,Charlie,PROD22,Uniqlo Dry-EX Shirt,Accessories,1250000,4,2024-06-26,Cash,J&T,5,1,Great quality!,5000000
+TXN00249,CUST0005,Dina,PROD39,ASUS TUF A15,Apparel,500000,5,2023-03-05,E-Wallet,SiCepat,3,4,Excellent service,2500000
+TXN00250,CUST0060,Charlie,PROD37,Uniqlo Dry-EX Shirt,Apparel,500000,3,2023-06-05,Credit Card,J&T,5,1,Great quality!,1500000
+TXN00251,CUST0064,Dina,PROD17,Uniqlo Dry-EX Shirt,Footwear,3500000,2,2024-04-30,E-Wallet,JNE,2,2,Great quality!,7000000
+TXN00252,CUST0024,Charlie,PROD28,ASUS TUF A15,Accessories,2000000,5,2024-06-03,Cash,AnterAja,2,5,Excellent service,10000000
+TXN00253,CUST0100,Alice,PROD5,Nike Air Max,Apparel,500000,4,2024-06-27,Credit Card,J&T,5,3,Could be better,2000000
+TXN00254,CUST0098,Charlie,PROD11,Nike Air Max,Accessories,500000,4,2023-10-08,Cash,J&T,5,1,Not satisfied,2000000
+TXN00255,CUST0057,Frank,PROD50,ASUS TUF A15,Electronics,3500000,3,2023-07-26,Cash,AnterAja,1,2,Item not as described,10500000
+TXN00256,CUST0071,Bob,PROD23,Xiaomi Backpack,Accessories,250000,1,2024-01-28,E-Wallet,JNE,5,3,Not satisfied,250000
+TXN00257,CUST0091,Frank,PROD50,Xiaomi Backpack,Electronics,250000,2,2023-04-06,Credit Card,AnterAja,2,1,Item not as described,500000
+TXN00258,CUST0060,Bob,PROD32,Xiaomi Backpack,Electronics,1250000,1,2023-11-13,Credit Card,AnterAja,3,5,Not satisfied,1250000
+TXN00259,CUST0072,Charlie,PROD47,Lenovo LOQ,Footwear,2000000,4,2024-03-31,Cash,JNE,3,2,Excellent service,8000000
+TXN00260,CUST0084,Frank,PROD31,Uniqlo Dry-EX Shirt,Electronics,2000000,3,2024-03-16,Credit Card,AnterAja,5,2,Not satisfied,6000000
+TXN00261,CUST0050,Frank,PROD13,Uniqlo Dry-EX Shirt,Footwear,2000000,4,2023-08-19,Credit Card,JNE,2,2,Great quality!,8000000
+TXN00262,CUST0098,Charlie,PROD36,Lenovo LOQ,Electronics,500000,5,2024-02-05,Credit Card,AnterAja,3,3,Excellent service,2500000
+TXN00263,CUST0055,Alice,PROD23,Lenovo LOQ,Apparel,1250000,5,2023-09-05,Bank Transfer,AnterAja,3,3,Could be better,6250000
+TXN00264,CUST0078,Dina,PROD17,Nike Air Max,Apparel,500000,4,2023-05-02,Bank Transfer,JNE,5,4,Fast delivery,2000000
+TXN00265,CUST0039,Bob,PROD2,Lenovo LOQ,Apparel,2000000,5,2023-11-15,Credit Card,AnterAja,1,3,Not satisfied,10000000
+TXN00266,CUST0010,Eve,PROD10,Xiaomi Backpack,Footwear,500000,1,2024-03-01,E-Wallet,SiCepat,4,5,Great quality!,500000
+TXN00267,CUST0034,Dina,PROD30,Xiaomi Backpack,Accessories,3500000,4,2023-08-13,E-Wallet,JNE,5,1,Item not as described,14000000
+TXN00268,CUST0047,Bob,PROD1,Xiaomi Backpack,Electronics,250000,5,2023-07-21,Bank Transfer,SiCepat,3,1,Not satisfied,1250000
+TXN00269,CUST0026,Eve,PROD18,ASUS TUF A15,Footwear,1250000,1,2023-09-18,Credit Card,AnterAja,4,5,Fast delivery,1250000
+TXN00270,CUST0087,Eve,PROD22,Adidas Ultraboost,Footwear,2000000,2,2024-06-21,Cash,SiCepat,2,3,Could be better,4000000
+TXN00271,CUST0028,Eve,PROD20,Lenovo LOQ,Electronics,2000000,5,2023-09-04,Credit Card,AnterAja,4,2,Not satisfied,10000000
+TXN00272,CUST0079,Eve,PROD7,Lenovo LOQ,Apparel,1250000,3,2023-05-08,Bank Transfer,JNE,1,1,Great quality!,3750000
+TXN00273,CUST0087,Eve,PROD12,Adidas Ultraboost,Electronics,1250000,3,2023-07-23,E-Wallet,J&T,5,3,Great quality!,3750000
+TXN00274,CUST0023,Bob,PROD10,Adidas Ultraboost,Apparel,2000000,3,2024-04-01,Bank Transfer,SiCepat,5,2,Excellent service,6000000
+TXN00275,CUST0057,Frank,PROD21,Adidas Ultraboost,Electronics,2000000,2,2023-12-01,E-Wallet,JNE,5,3,Not satisfied,4000000
+TXN00276,CUST0088,Eve,PROD12,Adidas Ultraboost,Accessories,1250000,5,2024-04-22,Credit Card,AnterAja,1,3,Excellent service,6250000
+TXN00277,CUST0036,Bob,PROD22,Xiaomi Backpack,Footwear,250000,4,2023-05-03,Cash,SiCepat,3,5,Not satisfied,1000000
+TXN00278,CUST0074,Alice,PROD44,ASUS TUF A15,Apparel,1250000,5,2023-09-11,Credit Card,JNE,3,2,Great quality!,6250000
+TXN00279,CUST0046,Alice,PROD8,Nike Air Max,Accessories,1250000,3,2023-04-02,Bank Transfer,AnterAja,4,4,Item not as described,3750000
+TXN00280,CUST0035,Eve,PROD24,Adidas Ultraboost,Footwear,500000,2,2024-05-11,Credit Card,JNE,5,2,Item not as described,1000000
+TXN00281,CUST0087,Bob,PROD34,Nike Air Max,Footwear,1250000,3,2023-10-15,Cash,JNE,5,5,Could be better,3750000
+TXN00282,CUST0099,Charlie,PROD50,Lenovo LOQ,Accessories,500000,4,2023-01-15,Credit Card,JNE,4,2,Great quality!,2000000
+TXN00283,CUST0016,Charlie,PROD8,ASUS TUF A15,Electronics,1250000,3,2023-07-23,Bank Transfer,J&T,1,2,Fast delivery,3750000
+TXN00284,CUST0093,Bob,PROD49,Nike Air Max,Accessories,500000,5,2023-04-14,E-Wallet,AnterAja,5,4,Great quality!,2500000
+TXN00285,CUST0028,Dina,PROD40,Adidas Ultraboost,Electronics,2000000,1,2023-02-18,E-Wallet,J&T,5,3,Could be better,2000000
+TXN00286,CUST0052,Bob,PROD4,Nike Air Max,Electronics,250000,5,2024-01-01,E-Wallet,J&T,4,2,Great quality!,1250000
+TXN00287,CUST0060,Dina,PROD38,Uniqlo Dry-EX Shirt,Accessories,500000,1,2024-01-12,Cash,SiCepat,5,2,Item not as described,500000
+TXN00288,CUST0087,Dina,PROD45,Uniqlo Dry-EX Shirt,Electronics,3500000,3,2024-01-06,Bank Transfer,J&T,5,5,Fast delivery,10500000
+TXN00289,CUST0026,Charlie,PROD48,Xiaomi Backpack,Footwear,1250000,5,2023-09-02,Bank Transfer,JNE,2,2,Fast delivery,6250000
+TXN00290,CUST0060,Eve,PROD22,Lenovo LOQ,Apparel,500000,2,2024-05-16,Bank Transfer,SiCepat,2,1,Item not as described,1000000
+TXN00291,CUST0036,Bob,PROD13,Adidas Ultraboost,Apparel,3500000,5,2024-04-02,Credit Card,SiCepat,5,4,Not satisfied,17500000
+TXN00292,CUST0025,Dina,PROD15,Xiaomi Backpack,Accessories,1250000,4,2023-09-15,E-Wallet,J&T,3,1,Fast delivery,5000000
+TXN00293,CUST0096,Eve,PROD26,Adidas Ultraboost,Apparel,500000,4,2024-05-10,Bank Transfer,J&T,1,1,Not satisfied,2000000
+TXN00294,CUST0087,Bob,PROD34,ASUS TUF A15,Accessories,250000,5,2023-07-11,Credit Card,JNE,1,1,Great quality!,1250000
+TXN00295,CUST0074,Charlie,PROD16,Lenovo LOQ,Electronics,500000,3,2024-05-30,Credit Card,JNE,2,5,Not satisfied,1500000
+TXN00296,CUST0095,Eve,PROD48,Xiaomi Backpack,Accessories,1250000,4,2023-01-22,Bank Transfer,SiCepat,4,2,Excellent service,5000000
+TXN00297,CUST0017,Bob,PROD45,Uniqlo Dry-EX Shirt,Accessories,1250000,3,2023-12-25,Bank Transfer,JNE,5,2,Not satisfied,3750000
+TXN00298,CUST0039,Alice,PROD19,Lenovo LOQ,Footwear,500000,2,2023-01-22,Bank Transfer,SiCepat,1,3,Excellent service,1000000
+TXN00299,CUST0079,Charlie,PROD20,Nike Air Max,Footwear,2000000,2,2023-02-26,Credit Card,JNE,3,5,Could be better,4000000
+TXN00300,CUST0067,Charlie,PROD30,ASUS TUF A15,Electronics,1250000,2,2023-11-16,Bank Transfer,JNE,2,5,Item not as described,2500000
+TXN00301,CUST0036,Dina,PROD33,Adidas Ultraboost,Apparel,2000000,5,2023-09-09,Cash,JNE,4,3,Could be better,10000000
+TXN00302,CUST0023,Alice,PROD17,Nike Air Max,Footwear,250000,1,2024-06-07,Cash,SiCepat,5,4,Not satisfied,250000
+TXN00303,CUST0079,Frank,PROD19,Xiaomi Backpack,Accessories,250000,3,2024-03-22,Bank Transfer,SiCepat,1,3,Not satisfied,750000
+TXN00304,CUST0028,Charlie,PROD12,Adidas Ultraboost,Apparel,2000000,3,2023-02-17,Bank Transfer,JNE,2,5,Great quality!,6000000
+TXN00305,CUST0017,Charlie,PROD32,Adidas Ultraboost,Footwear,3500000,1,2023-02-12,Credit Card,AnterAja,5,3,Fast delivery,3500000
+TXN00306,CUST0021,Frank,PROD1,Xiaomi Backpack,Electronics,250000,3,2023-08-11,Cash,JNE,3,3,Fast delivery,750000
+TXN00307,CUST0010,Bob,PROD21,Uniqlo Dry-EX Shirt,Apparel,1250000,5,2024-05-25,Cash,J&T,4,2,Could be better,6250000
+TXN00308,CUST0010,Charlie,PROD2,Uniqlo Dry-EX Shirt,Apparel,500000,2,2023-10-20,Bank Transfer,SiCepat,3,2,Item not as described,1000000
+TXN00309,CUST0034,Frank,PROD17,Lenovo LOQ,Electronics,500000,3,2024-02-14,E-Wallet,JNE,2,1,Could be better,1500000
+TXN00310,CUST0075,Alice,PROD14,Adidas Ultraboost,Apparel,3500000,4,2023-03-03,Bank Transfer,AnterAja,5,3,Could be better,14000000
+TXN00311,CUST0081,Charlie,PROD38,Xiaomi Backpack,Footwear,500000,4,2024-02-11,Bank Transfer,JNE,3,5,Fast delivery,2000000
+TXN00312,CUST0065,Eve,PROD46,Lenovo LOQ,Footwear,2000000,3,2023-01-14,E-Wallet,J&T,3,3,Could be better,6000000
+TXN00313,CUST0050,Bob,PROD36,ASUS TUF A15,Accessories,2000000,1,2024-01-23,E-Wallet,SiCepat,5,1,Could be better,2000000
+TXN00314,CUST0092,Frank,PROD19,Nike Air Max,Accessories,3500000,2,2023-02-01,Credit Card,SiCepat,4,4,Great quality!,7000000
+TXN00315,CUST0080,Charlie,PROD3,Xiaomi Backpack,Footwear,3500000,5,2024-04-12,Cash,AnterAja,5,1,Excellent service,17500000
+TXN00316,CUST0084,Bob,PROD30,Adidas Ultraboost,Electronics,1250000,1,2023-02-24,Bank Transfer,JNE,4,5,Fast delivery,1250000
+TXN00317,CUST0100,Dina,PROD34,Nike Air Max,Footwear,500000,4,2023-04-12,Credit Card,JNE,3,3,Could be better,2000000
+TXN00318,CUST0032,Bob,PROD10,Adidas Ultraboost,Electronics,1250000,5,2023-08-19,E-Wallet,AnterAja,5,2,Excellent service,6250000
+TXN00319,CUST0065,Charlie,PROD10,Xiaomi Backpack,Electronics,2000000,2,2024-04-30,Cash,AnterAja,1,2,Excellent service,4000000
+TXN00320,CUST0016,Dina,PROD23,Nike Air Max,Accessories,1250000,1,2023-12-23,Cash,J&T,3,1,Could be better,1250000
+TXN00321,CUST0013,Eve,PROD9,Uniqlo Dry-EX Shirt,Electronics,1250000,3,2024-05-24,E-Wallet,AnterAja,3,4,Item not as described,3750000
+TXN00322,CUST0028,Bob,PROD18,ASUS TUF A15,Accessories,3500000,5,2024-05-30,Cash,J&T,3,5,Fast delivery,17500000
+TXN00323,CUST0053,Frank,PROD11,Uniqlo Dry-EX Shirt,Footwear,2000000,2,2023-10-04,Cash,J&T,1,5,Could be better,4000000
+TXN00324,CUST0004,Bob,PROD1,Adidas Ultraboost,Accessories,2000000,1,2024-02-19,Cash,SiCepat,1,2,Great quality!,2000000
+TXN00325,CUST0098,Bob,PROD37,Adidas Ultraboost,Electronics,3500000,1,2024-01-13,Cash,JNE,3,4,Not satisfied,3500000
+TXN00326,CUST0067,Eve,PROD44,ASUS TUF A15,Footwear,1250000,1,2023-02-19,Cash,J&T,2,2,Not satisfied,1250000
+TXN00327,CUST0092,Alice,PROD26,Xiaomi Backpack,Electronics,3500000,3,2023-12-21,E-Wallet,SiCepat,1,1,Item not as described,10500000
+TXN00328,CUST0004,Charlie,PROD21,ASUS TUF A15,Electronics,500000,4,2023-07-02,Cash,SiCepat,3,4,Great quality!,2000000
+TXN00329,CUST0037,Bob,PROD34,Xiaomi Backpack,Accessories,2000000,1,2024-04-09,Cash,AnterAja,3,1,Could be better,2000000
+TXN00330,CUST0087,Charlie,PROD9,Uniqlo Dry-EX Shirt,Accessories,2000000,3,2023-03-18,Credit Card,AnterAja,2,5,Fast delivery,6000000
+TXN00331,CUST0037,Bob,PROD2,ASUS TUF A15,Electronics,1250000,3,2024-02-07,E-Wallet,JNE,5,5,Fast delivery,3750000
+TXN00332,CUST0052,Alice,PROD47,Uniqlo Dry-EX Shirt,Footwear,2000000,3,2023-07-21,Cash,AnterAja,3,5,Fast delivery,6000000
+TXN00333,CUST0038,Alice,PROD42,ASUS TUF A15,Apparel,500000,5,2023-08-14,Credit Card,AnterAja,3,2,Item not as described,2500000
+TXN00334,CUST0046,Dina,PROD8,Xiaomi Backpack,Apparel,250000,4,2024-04-23,Credit Card,JNE,3,2,Not satisfied,1000000
+TXN00335,CUST0082,Frank,PROD41,Nike Air Max,Apparel,250000,1,2023-03-25,Bank Transfer,JNE,5,5,Item not as described,250000
+TXN00336,CUST0019,Alice,PROD9,Adidas Ultraboost,Electronics,250000,1,2023-10-30,Cash,J&T,2,4,Item not as described,250000
+TXN00337,CUST0018,Frank,PROD27,Uniqlo Dry-EX Shirt,Electronics,500000,2,2024-03-19,E-Wallet,AnterAja,5,3,Fast delivery,1000000
+TXN00338,CUST0087,Alice,PROD39,Lenovo LOQ,Electronics,500000,5,2024-02-06,Bank Transfer,JNE,2,5,Great quality!,2500000
+TXN00339,CUST0068,Dina,PROD12,Adidas Ultraboost,Footwear,3500000,2,2023-02-20,Credit Card,AnterAja,5,2,Could be better,7000000
+TXN00340,CUST0070,Eve,PROD7,Nike Air Max,Footwear,3500000,4,2023-12-28,Bank Transfer,AnterAja,4,2,Great quality!,14000000
+TXN00341,CUST0014,Charlie,PROD14,Lenovo LOQ,Apparel,250000,2,2024-04-01,Bank Transfer,AnterAja,4,2,Great quality!,500000
+TXN00342,CUST0038,Charlie,PROD33,Xiaomi Backpack,Electronics,500000,2,2023-09-20,Bank Transfer,SiCepat,3,2,Item not as described,1000000
+TXN00343,CUST0070,Charlie,PROD16,Xiaomi Backpack,Accessories,3500000,3,2023-02-16,Bank Transfer,AnterAja,3,3,Great quality!,10500000
+TXN00344,CUST0073,Frank,PROD41,Xiaomi Backpack,Footwear,500000,1,2023-05-01,Credit Card,AnterAja,2,2,Excellent service,500000
+TXN00345,CUST0008,Charlie,PROD14,ASUS TUF A15,Accessories,2000000,1,2023-06-30,E-Wallet,AnterAja,4,2,Not satisfied,2000000
+TXN00346,CUST0019,Frank,PROD17,Nike Air Max,Apparel,1250000,5,2024-02-23,Bank Transfer,SiCepat,1,4,Item not as described,6250000
+TXN00347,CUST0027,Eve,PROD30,Lenovo LOQ,Accessories,3500000,4,2023-08-25,E-Wallet,JNE,2,3,Item not as described,14000000
+TXN00348,CUST0031,Dina,PROD41,Lenovo LOQ,Electronics,3500000,1,2024-03-27,E-Wallet,AnterAja,2,3,Excellent service,3500000
+TXN00349,CUST0055,Charlie,PROD33,Nike Air Max,Accessories,1250000,3,2024-05-01,E-Wallet,JNE,4,2,Fast delivery,3750000
+TXN00350,CUST0034,Alice,PROD33,ASUS TUF A15,Accessories,2000000,3,2023-06-26,Credit Card,JNE,2,2,Item not as described,6000000
+TXN00351,CUST0015,Eve,PROD4,Adidas Ultraboost,Apparel,3500000,4,2023-03-02,Bank Transfer,AnterAja,3,2,Item not as described,14000000
+TXN00352,CUST0028,Bob,PROD4,Lenovo LOQ,Footwear,3500000,4,2023-11-28,Credit Card,JNE,4,5,Item not as described,14000000
+TXN00353,CUST0070,Charlie,PROD11,ASUS TUF A15,Accessories,1250000,4,2023-03-09,Cash,SiCepat,5,1,Could be better,5000000
+TXN00354,CUST0001,Frank,PROD28,Uniqlo Dry-EX Shirt,Apparel,3500000,3,2023-09-14,Bank Transfer,SiCepat,4,2,Fast delivery,10500000
+TXN00355,CUST0092,Alice,PROD5,Nike Air Max,Electronics,3500000,2,2024-03-05,E-Wallet,SiCepat,4,2,Great quality!,7000000
+TXN00356,CUST0058,Dina,PROD25,Lenovo LOQ,Apparel,1250000,4,2023-08-09,Bank Transfer,SiCepat,5,5,Great quality!,5000000
+TXN00357,CUST0023,Frank,PROD13,Adidas Ultraboost,Footwear,2000000,5,2023-11-24,Cash,J&T,5,5,Not satisfied,10000000
+TXN00358,CUST0085,Bob,PROD29,ASUS TUF A15,Accessories,3500000,3,2023-12-07,Credit Card,JNE,1,4,Fast delivery,10500000
+TXN00359,CUST0005,Dina,PROD6,Uniqlo Dry-EX Shirt,Accessories,1250000,4,2023-01-22,Credit Card,J&T,1,3,Great quality!,5000000
+TXN00360,CUST0039,Bob,PROD11,Adidas Ultraboost,Footwear,3500000,5,2023-02-20,Cash,AnterAja,1,3,Great quality!,17500000
+TXN00361,CUST0030,Frank,PROD8,Nike Air Max,Footwear,3500000,2,2023-03-14,E-Wallet,JNE,5,5,Not satisfied,7000000
+TXN00362,CUST0062,Frank,PROD6,ASUS TUF A15,Accessories,250000,1,2024-01-29,Cash,JNE,5,3,Not satisfied,250000
+TXN00363,CUST0050,Bob,PROD33,Xiaomi Backpack,Accessories,500000,5,2023-01-28,Cash,J&T,3,1,Fast delivery,2500000
+TXN00364,CUST0018,Alice,PROD43,Adidas Ultraboost,Electronics,500000,1,2024-05-10,E-Wallet,JNE,3,5,Item not as described,500000
+TXN00365,CUST0014,Bob,PROD42,Adidas Ultraboost,Footwear,2000000,5,2024-04-18,Cash,AnterAja,1,1,Great quality!,10000000
+TXN00366,CUST0022,Dina,PROD13,Uniqlo Dry-EX Shirt,Footwear,3500000,1,2023-11-23,E-Wallet,JNE,1,3,Excellent service,3500000
+TXN00367,CUST0042,Frank,PROD26,Adidas Ultraboost,Electronics,1250000,3,2024-05-29,Bank Transfer,SiCepat,2,5,Could be better,3750000
+TXN00368,CUST0049,Charlie,PROD14,Xiaomi Backpack,Footwear,250000,5,2024-05-20,Cash,JNE,4,4,Excellent service,1250000
+TXN00369,CUST0010,Dina,PROD36,Uniqlo Dry-EX Shirt,Electronics,500000,2,2023-02-23,E-Wallet,AnterAja,2,4,Item not as described,1000000
+TXN00370,CUST0044,Charlie,PROD13,Uniqlo Dry-EX Shirt,Apparel,2000000,3,2023-06-14,Bank Transfer,J&T,2,4,Could be better,6000000
+TXN00371,CUST0041,Bob,PROD30,Uniqlo Dry-EX Shirt,Accessories,250000,1,2023-06-14,Credit Card,JNE,4,2,Great quality!,250000
+TXN00372,CUST0088,Frank,PROD12,Adidas Ultraboost,Footwear,2000000,1,2023-12-12,E-Wallet,SiCepat,1,3,Could be better,2000000
+TXN00373,CUST0017,Alice,PROD3,Lenovo LOQ,Electronics,2000000,3,2023-09-30,E-Wallet,AnterAja,4,2,Great quality!,6000000
+TXN00374,CUST0005,Eve,PROD19,Nike Air Max,Apparel,3500000,3,2024-02-04,E-Wallet,JNE,1,1,Not satisfied,10500000
+TXN00375,CUST0006,Frank,PROD16,Nike Air Max,Footwear,3500000,4,2023-08-05,Credit Card,AnterAja,2,5,Fast delivery,14000000
+TXN00376,CUST0059,Frank,PROD37,ASUS TUF A15,Footwear,500000,4,2024-04-07,E-Wallet,J&T,3,1,Great quality!,2000000
+TXN00377,CUST0015,Frank,PROD31,Xiaomi Backpack,Accessories,2000000,4,2024-02-11,E-Wallet,AnterAja,3,2,Could be better,8000000
+TXN00378,CUST0015,Dina,PROD1,Nike Air Max,Footwear,250000,5,2024-03-19,Cash,J&T,2,4,Not satisfied,1250000
+TXN00379,CUST0006,Alice,PROD22,ASUS TUF A15,Electronics,1250000,3,2023-07-29,Bank Transfer,SiCepat,5,4,Excellent service,3750000
+TXN00380,CUST0095,Dina,PROD38,Lenovo LOQ,Electronics,3500000,4,2023-07-19,Credit Card,J&T,3,4,Excellent service,14000000
+TXN00381,CUST0011,Alice,PROD6,Adidas Ultraboost,Accessories,1250000,1,2023-04-08,Bank Transfer,SiCepat,2,3,Item not as described,1250000
+TXN00382,CUST0022,Charlie,PROD8,ASUS TUF A15,Accessories,2000000,1,2023-07-09,Credit Card,J&T,5,1,Great quality!,2000000
+TXN00383,CUST0063,Bob,PROD35,Nike Air Max,Footwear,2000000,5,2023-08-22,E-Wallet,SiCepat,5,2,Could be better,10000000
+TXN00384,CUST0087,Frank,PROD47,Lenovo LOQ,Electronics,1250000,1,2023-08-21,E-Wallet,SiCepat,4,1,Great quality!,1250000
+TXN00385,CUST0058,Charlie,PROD26,Xiaomi Backpack,Footwear,250000,5,2024-06-11,Bank Transfer,JNE,4,5,Excellent service,1250000
+TXN00386,CUST0048,Dina,PROD5,Adidas Ultraboost,Footwear,1250000,3,2024-06-28,Cash,SiCepat,5,5,Great quality!,3750000
+TXN00387,CUST0054,Eve,PROD40,ASUS TUF A15,Apparel,3500000,2,2023-09-12,E-Wallet,SiCepat,1,5,Great quality!,7000000
+TXN00388,CUST0006,Charlie,PROD6,Nike Air Max,Footwear,3500000,4,2023-08-12,Bank Transfer,JNE,5,1,Great quality!,14000000
+TXN00389,CUST0052,Charlie,PROD18,Adidas Ultraboost,Electronics,2000000,3,2024-03-19,E-Wallet,AnterAja,5,1,Excellent service,6000000
+TXN00390,CUST0031,Frank,PROD38,Lenovo LOQ,Footwear,250000,2,2023-09-01,Bank Transfer,JNE,2,1,Great quality!,500000
+TXN00391,CUST0015,Charlie,PROD49,Lenovo LOQ,Electronics,250000,4,2023-05-03,Cash,SiCepat,1,5,Could be better,1000000
+TXN00392,CUST0083,Dina,PROD33,Xiaomi Backpack,Footwear,250000,5,2023-12-24,E-Wallet,J&T,2,5,Excellent service,1250000
+TXN00393,CUST0001,Dina,PROD11,Adidas Ultraboost,Apparel,500000,3,2023-10-05,Bank Transfer,SiCepat,4,2,Great quality!,1500000
+TXN00394,CUST0005,Dina,PROD32,Xiaomi Backpack,Apparel,1250000,4,2023-04-15,Bank Transfer,JNE,5,4,Item not as described,5000000
+TXN00395,CUST0007,Bob,PROD4,Uniqlo Dry-EX Shirt,Accessories,250000,1,2024-05-29,Cash,JNE,1,2,Could be better,250000
+TXN00396,CUST0074,Alice,PROD48,Lenovo LOQ,Apparel,250000,2,2024-04-14,Cash,SiCepat,1,2,Item not as described,500000
+TXN00397,CUST0070,Alice,PROD50,ASUS TUF A15,Accessories,500000,3,2023-01-02,Credit Card,J&T,3,5,Not satisfied,1500000
+TXN00398,CUST0034,Bob,PROD26,Lenovo LOQ,Electronics,500000,5,2024-05-17,Credit Card,AnterAja,2,3,Excellent service,2500000
+TXN00399,CUST0033,Dina,PROD28,Lenovo LOQ,Apparel,3500000,4,2024-01-28,E-Wallet,JNE,1,2,Item not as described,14000000
+TXN00400,CUST0079,Bob,PROD21,Adidas Ultraboost,Accessories,500000,3,2024-03-06,Credit Card,JNE,3,5,Great quality!,1500000
+TXN00401,CUST0063,Charlie,PROD23,Lenovo LOQ,Footwear,500000,4,2023-07-19,Bank Transfer,JNE,5,3,Excellent service,2000000
+TXN00402,CUST0087,Eve,PROD25,Nike Air Max,Accessories,2000000,5,2023-11-15,Bank Transfer,J&T,4,5,Item not as described,10000000
+TXN00403,CUST0027,Bob,PROD32,ASUS TUF A15,Electronics,1250000,2,2023-10-20,Cash,AnterAja,1,1,Excellent service,2500000
+TXN00404,CUST0079,Dina,PROD2,ASUS TUF A15,Electronics,250000,3,2024-03-20,Credit Card,J&T,5,2,Fast delivery,750000
+TXN00405,CUST0089,Charlie,PROD25,Xiaomi Backpack,Apparel,250000,4,2023-05-20,E-Wallet,JNE,1,4,Could be better,1000000
+TXN00406,CUST0063,Frank,PROD20,Nike Air Max,Accessories,500000,1,2023-05-10,E-Wallet,AnterAja,2,3,Great quality!,500000
+TXN00407,CUST0026,Eve,PROD27,Uniqlo Dry-EX Shirt,Electronics,1250000,3,2023-09-06,E-Wallet,SiCepat,5,2,Could be better,3750000
+TXN00408,CUST0004,Alice,PROD5,Nike Air Max,Footwear,2000000,5,2023-12-26,Cash,J&T,2,4,Could be better,10000000
+TXN00409,CUST0012,Alice,PROD40,Uniqlo Dry-EX Shirt,Footwear,250000,2,2023-11-23,Cash,JNE,2,1,Fast delivery,500000
+TXN00410,CUST0001,Frank,PROD37,Lenovo LOQ,Electronics,250000,1,2024-04-08,Bank Transfer,JNE,3,5,Could be better,250000
+TXN00411,CUST0015,Dina,PROD32,Lenovo LOQ,Footwear,250000,1,2023-08-08,E-Wallet,J&T,2,2,Excellent service,250000
+TXN00412,CUST0042,Frank,PROD26,Adidas Ultraboost,Electronics,1250000,1,2023-06-24,E-Wallet,AnterAja,5,5,Item not as described,1250000
+TXN00413,CUST0052,Charlie,PROD26,ASUS TUF A15,Apparel,2000000,2,2023-05-12,Bank Transfer,AnterAja,4,5,Could be better,4000000
+TXN00414,CUST0075,Frank,PROD14,Nike Air Max,Footwear,2000000,5,2023-11-30,E-Wallet,JNE,4,1,Fast delivery,10000000
+TXN00415,CUST0056,Frank,PROD15,ASUS TUF A15,Apparel,1250000,3,2023-02-14,Credit Card,AnterAja,5,5,Great quality!,3750000
+TXN00416,CUST0077,Charlie,PROD23,ASUS TUF A15,Apparel,250000,5,2023-04-30,Credit Card,SiCepat,4,5,Excellent service,1250000
+TXN00417,CUST0040,Eve,PROD48,Nike Air Max,Accessories,250000,1,2023-12-28,Credit Card,AnterAja,1,3,Item not as described,250000
+TXN00418,CUST0024,Alice,PROD47,Uniqlo Dry-EX Shirt,Footwear,1250000,2,2023-02-25,E-Wallet,JNE,3,2,Not satisfied,2500000
+TXN00419,CUST0059,Dina,PROD48,Adidas Ultraboost,Apparel,1250000,2,2023-06-13,Bank Transfer,SiCepat,4,4,Could be better,2500000
+TXN00420,CUST0008,Eve,PROD40,ASUS TUF A15,Footwear,250000,3,2023-06-10,Credit Card,J&T,1,1,Excellent service,750000
+TXN00421,CUST0058,Frank,PROD16,Adidas Ultraboost,Apparel,250000,4,2023-02-04,Cash,J&T,5,1,Item not as described,1000000
+TXN00422,CUST0041,Bob,PROD47,Adidas Ultraboost,Electronics,3500000,1,2023-11-24,Bank Transfer,SiCepat,4,2,Fast delivery,3500000
+TXN00423,CUST0079,Dina,PROD3,ASUS TUF A15,Apparel,500000,3,2023-04-22,E-Wallet,SiCepat,5,1,Item not as described,1500000
+TXN00424,CUST0085,Charlie,PROD2,Uniqlo Dry-EX Shirt,Accessories,1250000,5,2024-02-27,Bank Transfer,JNE,4,5,Great quality!,6250000
+TXN00425,CUST0058,Eve,PROD15,Xiaomi Backpack,Apparel,500000,2,2023-04-27,E-Wallet,JNE,4,2,Fast delivery,1000000
+TXN00426,CUST0084,Frank,PROD38,Xiaomi Backpack,Footwear,500000,1,2023-01-18,Cash,J&T,3,1,Fast delivery,500000
+TXN00427,CUST0054,Dina,PROD34,Lenovo LOQ,Electronics,250000,2,2023-12-29,Bank Transfer,JNE,1,2,Fast delivery,500000
+TXN00428,CUST0040,Alice,PROD35,Xiaomi Backpack,Accessories,500000,3,2023-07-26,Bank Transfer,SiCepat,1,4,Fast delivery,1500000
+TXN00429,CUST0057,Dina,PROD28,Uniqlo Dry-EX Shirt,Electronics,1250000,3,2023-10-10,Cash,J&T,4,5,Excellent service,3750000
+TXN00430,CUST0037,Bob,PROD43,Adidas Ultraboost,Electronics,1250000,5,2023-10-18,Credit Card,J&T,1,1,Great quality!,6250000
+TXN00431,CUST0086,Frank,PROD35,Uniqlo Dry-EX Shirt,Electronics,1250000,4,2023-11-06,E-Wallet,J&T,2,2,Item not as described,5000000
+TXN00432,CUST0047,Charlie,PROD3,Lenovo LOQ,Electronics,3500000,2,2023-10-04,Cash,JNE,1,3,Item not as described,7000000
+TXN00433,CUST0087,Charlie,PROD3,Nike Air Max,Electronics,250000,4,2023-11-09,Cash,AnterAja,4,1,Item not as described,1000000
+TXN00434,CUST0075,Alice,PROD30,ASUS TUF A15,Accessories,1250000,1,2024-05-21,E-Wallet,JNE,3,4,Item not as described,1250000
+TXN00435,CUST0053,Frank,PROD1,Adidas Ultraboost,Electronics,250000,4,2023-04-04,E-Wallet,J&T,1,5,Could be better,1000000
+TXN00436,CUST0058,Eve,PROD33,Uniqlo Dry-EX Shirt,Apparel,1250000,2,2023-06-07,Bank Transfer,JNE,3,4,Could be better,2500000
+TXN00437,CUST0012,Alice,PROD2,ASUS TUF A15,Accessories,500000,2,2023-06-13,Bank Transfer,AnterAja,3,1,Item not as described,1000000
+TXN00438,CUST0044,Dina,PROD20,Xiaomi Backpack,Electronics,3500000,1,2023-05-09,Credit Card,JNE,3,4,Could be better,3500000
+TXN00439,CUST0052,Bob,PROD40,ASUS TUF A15,Electronics,1250000,3,2024-03-15,Bank Transfer,JNE,1,1,Excellent service,3750000
+TXN00440,CUST0019,Alice,PROD50,Adidas Ultraboost,Accessories,250000,2,2024-05-08,E-Wallet,SiCepat,2,2,Item not as described,500000
+TXN00441,CUST0004,Bob,PROD9,Uniqlo Dry-EX Shirt,Apparel,500000,1,2024-04-07,Credit Card,AnterAja,2,5,Could be better,500000
+TXN00442,CUST0003,Charlie,PROD29,Adidas Ultraboost,Accessories,250000,1,2023-02-25,E-Wallet,J&T,2,4,Not satisfied,250000
+TXN00443,CUST0064,Bob,PROD49,Uniqlo Dry-EX Shirt,Electronics,1250000,4,2023-05-24,Credit Card,J&T,2,1,Could be better,5000000
+TXN00444,CUST0065,Frank,PROD30,Nike Air Max,Accessories,500000,3,2024-05-15,Credit Card,J&T,2,4,Could be better,1500000
+TXN00445,CUST0033,Charlie,PROD11,ASUS TUF A15,Accessories,3500000,3,2024-02-28,E-Wallet,J&T,3,1,Excellent service,10500000
+TXN00446,CUST0061,Dina,PROD43,Lenovo LOQ,Apparel,250000,2,2023-12-19,E-Wallet,AnterAja,4,1,Great quality!,500000
+TXN00447,CUST0025,Charlie,PROD31,Lenovo LOQ,Footwear,1250000,4,2024-03-07,Credit Card,SiCepat,2,3,Could be better,5000000
+TXN00448,CUST0081,Frank,PROD12,Lenovo LOQ,Apparel,2000000,5,2024-01-16,Bank Transfer,J&T,5,2,Fast delivery,10000000
+TXN00449,CUST0074,Dina,PROD13,Adidas Ultraboost,Electronics,500000,4,2024-03-14,Bank Transfer,AnterAja,2,3,Could be better,2000000
+TXN00450,CUST0021,Charlie,PROD48,ASUS TUF A15,Apparel,3500000,3,2023-03-30,Cash,SiCepat,4,5,Great quality!,10500000
+TXN00451,CUST0075,Bob,PROD38,Xiaomi Backpack,Accessories,1250000,3,2024-01-14,Bank Transfer,J&T,4,2,Item not as described,3750000
+TXN00452,CUST0030,Bob,PROD15,Xiaomi Backpack,Accessories,500000,3,2023-04-17,Cash,J&T,4,1,Great quality!,1500000
+TXN00453,CUST0063,Alice,PROD10,Adidas Ultraboost,Footwear,1250000,3,2023-02-14,Cash,AnterAja,3,5,Fast delivery,3750000
+TXN00454,CUST0041,Bob,PROD11,Nike Air Max,Footwear,2000000,4,2024-03-25,Cash,SiCepat,5,1,Great quality!,8000000
+TXN00455,CUST0084,Alice,PROD40,Lenovo LOQ,Apparel,2000000,1,2023-04-12,Cash,SiCepat,5,4,Item not as described,2000000
+TXN00456,CUST0086,Frank,PROD37,Nike Air Max,Accessories,500000,2,2023-09-03,Cash,SiCepat,2,4,Excellent service,1000000
+TXN00457,CUST0002,Charlie,PROD18,Xiaomi Backpack,Footwear,3500000,4,2023-02-28,Cash,SiCepat,2,3,Excellent service,14000000
+TXN00458,CUST0084,Eve,PROD13,Nike Air Max,Electronics,3500000,2,2023-01-28,Bank Transfer,J&T,4,2,Could be better,7000000
+TXN00459,CUST0089,Frank,PROD19,Adidas Ultraboost,Apparel,500000,1,2023-01-27,E-Wallet,AnterAja,2,3,Item not as described,500000
+TXN00460,CUST0040,Eve,PROD3,Adidas Ultraboost,Footwear,500000,2,2024-04-06,E-Wallet,AnterAja,5,4,Great quality!,1000000
+TXN00461,CUST0029,Charlie,PROD34,Uniqlo Dry-EX Shirt,Electronics,2000000,1,2023-06-26,Credit Card,JNE,1,1,Great quality!,2000000
+TXN00462,CUST0082,Bob,PROD40,Xiaomi Backpack,Footwear,250000,5,2024-06-08,Cash,J&T,2,4,Not satisfied,1250000
+TXN00463,CUST0030,Frank,PROD24,Lenovo LOQ,Footwear,3500000,2,2023-12-18,Cash,SiCepat,4,3,Not satisfied,7000000
+TXN00464,CUST0061,Eve,PROD22,Uniqlo Dry-EX Shirt,Footwear,1250000,1,2023-03-28,Cash,JNE,2,1,Could be better,1250000
+TXN00465,CUST0061,Eve,PROD30,Xiaomi Backpack,Accessories,2000000,1,2023-11-10,Cash,J&T,3,3,Item not as described,2000000
+TXN00466,CUST0085,Bob,PROD24,Xiaomi Backpack,Footwear,250000,5,2023-05-12,Cash,J&T,4,2,Great quality!,1250000
+TXN00467,CUST0077,Eve,PROD40,Nike Air Max,Electronics,2000000,4,2023-04-29,Bank Transfer,AnterAja,4,5,Could be better,8000000
+TXN00468,CUST0094,Bob,PROD28,Adidas Ultraboost,Accessories,1250000,2,2023-06-02,E-Wallet,J&T,1,4,Fast delivery,2500000
+TXN00469,CUST0003,Frank,PROD38,ASUS TUF A15,Electronics,500000,5,2023-06-14,Cash,JNE,3,2,Fast delivery,2500000
+TXN00470,CUST0006,Frank,PROD20,Adidas Ultraboost,Apparel,250000,4,2023-03-04,Cash,SiCepat,4,4,Great quality!,1000000
+TXN00471,CUST0029,Charlie,PROD30,Lenovo LOQ,Accessories,250000,2,2024-01-28,Bank Transfer,J&T,4,2,Item not as described,500000
+TXN00472,CUST0032,Eve,PROD22,Nike Air Max,Accessories,1250000,1,2024-02-18,Bank Transfer,SiCepat,5,5,Excellent service,1250000
+TXN00473,CUST0068,Eve,PROD22,Lenovo LOQ,Footwear,500000,1,2024-04-09,Credit Card,JNE,2,5,Fast delivery,500000
+TXN00474,CUST0032,Alice,PROD42,Xiaomi Backpack,Electronics,3500000,4,2024-02-28,E-Wallet,JNE,3,2,Could be better,14000000
+TXN00475,CUST0100,Charlie,PROD9,Nike Air Max,Electronics,250000,5,2023-09-26,Bank Transfer,JNE,5,3,Fast delivery,1250000
+TXN00476,CUST0039,Alice,PROD15,Xiaomi Backpack,Apparel,3500000,4,2024-04-13,E-Wallet,SiCepat,3,4,Great quality!,14000000
+TXN00477,CUST0080,Alice,PROD39,Uniqlo Dry-EX Shirt,Electronics,3500000,1,2023-08-09,Credit Card,JNE,5,3,Not satisfied,3500000
+TXN00478,CUST0071,Charlie,PROD45,ASUS TUF A15,Electronics,250000,4,2024-02-06,Credit Card,JNE,4,4,Item not as described,1000000
+TXN00479,CUST0053,Frank,PROD5,Adidas Ultraboost,Electronics,2000000,4,2023-09-16,Credit Card,JNE,1,2,Fast delivery,8000000
+TXN00480,CUST0042,Alice,PROD24,Nike Air Max,Apparel,500000,4,2023-04-17,Cash,SiCepat,5,5,Not satisfied,2000000
+TXN00481,CUST0028,Eve,PROD7,Uniqlo Dry-EX Shirt,Footwear,1250000,5,2023-11-21,Credit Card,JNE,4,4,Great quality!,6250000
+TXN00482,CUST0033,Alice,PROD41,Lenovo LOQ,Accessories,500000,2,2024-06-05,Cash,AnterAja,4,1,Item not as described,1000000
+TXN00483,CUST0077,Eve,PROD2,Nike Air Max,Footwear,1250000,3,2024-05-01,E-Wallet,SiCepat,1,4,Not satisfied,3750000
+TXN00484,CUST0097,Frank,PROD48,Adidas Ultraboost,Apparel,500000,5,2024-04-22,E-Wallet,SiCepat,4,1,Could be better,2500000
+TXN00485,CUST0020,Alice,PROD9,Lenovo LOQ,Accessories,250000,2,2023-10-10,Cash,AnterAja,1,5,Item not as described,500000
+TXN00486,CUST0011,Charlie,PROD16,Adidas Ultraboost,Electronics,1250000,3,2023-06-10,Bank Transfer,AnterAja,2,2,Excellent service,3750000
+TXN00487,CUST0099,Alice,PROD38,Adidas Ultraboost,Footwear,250000,1,2024-03-02,Cash,JNE,4,1,Could be better,250000
+TXN00488,CUST0041,Eve,PROD38,Uniqlo Dry-EX Shirt,Apparel,250000,3,2023-11-03,E-Wallet,AnterAja,2,4,Could be better,750000
+TXN00489,CUST0095,Eve,PROD44,Uniqlo Dry-EX Shirt,Apparel,1250000,4,2023-07-20,E-Wallet,J&T,5,3,Fast delivery,5000000
+TXN00490,CUST0031,Bob,PROD22,ASUS TUF A15,Apparel,2000000,4,2023-10-06,E-Wallet,JNE,4,3,Could be better,8000000
+TXN00491,CUST0072,Frank,PROD28,Xiaomi Backpack,Footwear,500000,5,2023-07-06,E-Wallet,SiCepat,2,4,Not satisfied,2500000
+TXN00492,CUST0078,Dina,PROD32,Xiaomi Backpack,Accessories,3500000,3,2023-07-20,Bank Transfer,AnterAja,1,3,Could be better,10500000
+TXN00493,CUST0069,Alice,PROD41,Adidas Ultraboost,Apparel,2000000,2,2023-08-18,E-Wallet,JNE,3,3,Fast delivery,4000000
+TXN00494,CUST0089,Eve,PROD44,Lenovo LOQ,Apparel,3500000,5,2023-08-06,Credit Card,AnterAja,4,2,Excellent service,17500000
+TXN00495,CUST0029,Charlie,PROD33,Adidas Ultraboost,Accessories,1250000,5,2024-02-27,E-Wallet,J&T,3,1,Great quality!,6250000
+TXN00496,CUST0089,Frank,PROD1,Nike Air Max,Footwear,1250000,2,2023-02-13,Credit Card,SiCepat,5,5,Could be better,2500000
+TXN00497,CUST0040,Eve,PROD37,ASUS TUF A15,Electronics,500000,1,2023-02-01,Bank Transfer,JNE,5,5,Item not as described,500000
+TXN00498,CUST0062,Dina,PROD42,Adidas Ultraboost,Apparel,3500000,3,2023-04-08,E-Wallet,AnterAja,4,4,Fast delivery,10500000
+TXN00499,CUST0047,Alice,PROD27,ASUS TUF A15,Apparel,3500000,1,2023-11-01,Credit Card,JNE,1,5,Great quality!,3500000
+TXN00500,CUST0051,Frank,PROD41,Adidas Ultraboost,Accessories,500000,1,2023-11-06,Bank Transfer,SiCepat,3,5,Excellent service,500000
